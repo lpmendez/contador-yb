@@ -19,9 +19,9 @@
     "vuefire": "^1.4.5"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.11.0",
-    "@vue/cli-plugin-eslint": "^3.0.3",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "braces": ">=2.3.1",
     "js-yaml": ">=3.13.1",
     "lodash": ">=4.17.13",
